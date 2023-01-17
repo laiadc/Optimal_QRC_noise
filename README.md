@@ -1,4 +1,4 @@
-# The advantage of noise in quantum reservoir computing
+# Taking advantage of noise in quantum reservoir computing
 
 In this Letter we study how the presence of noise in quantum devices affects the performance of quantum reservoir computing. The presence of noise in the quantum devices is considered one of the biggest challenges of quantum computing. In this work we demonstrate that, in certain situations, certain noise models can actually be beneficial for the quantum machine learning algorithm.
 
