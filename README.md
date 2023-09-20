@@ -2,7 +2,7 @@
 
 In this Letter we study how the presence of noise in quantum devices affects the performance of quantum reservoir computing. The presence of noise in the quantum devices is considered one of the biggest challenges of quantum computing. In this work we demonstrate that, in certain situations, certain noise models can actually be beneficial for the quantum machine learning algorithm.
 
-The results are illustrated in a set of [Jupyter](https://jupyter.org/) notebooks for easier comprehensiopn. We also provide a python script to run the experiments. The whole code is the result of the work in  this paper. Any contribution or idea to continue the lines of the proposed work will be very welcome.
+The results are illustrated in a set of [Jupyter](https://jupyter.org/) notebooks for easier comprehension. We also provide a python script to run the experiments. The whole code is the result of the work in  this paper. Any contribution or idea to continue the lines of the proposed work will be very welcome.
 
 We study the effect of three noise models with different error probabilities. The first error model is the *amplitude damping channel*, which models the effect of energy dissipation, that is, the loss of energy of a quantum state to its environment. It provides a model of the decay of an excited two-level atom due to the spontaneous emission of a photon with probability p.  The second noise model is described by the *phase damping channel*, which models the loss of quantum information without loss of energy. The last error model is described by the *depolarizing channel*. In this case, a Pauli error $X$, $Y$ or $Z$ occurs with the same probability $p$.
 
